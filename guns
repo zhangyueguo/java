@@ -1,6 +1,7 @@
 guns的学习
 
-1.使用idea 进行open -> guns-parent
+1.使用idea 进行open -> guns-parent      ,
+  修改数据源：  application.yml      此文件在 guns-admin/src/resources/application.yml   
 2.启动guns：
      2.1 运行java 文件    GunsApplication.java 
      此文件在 guns-admin/src/java/com.stylefeng.guns/
